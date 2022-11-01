@@ -1,0 +1,22 @@
+.bg-container {
+  background-color: #1e293b;
+  height: 100vh;
+  background-size: cover;
+}
+.heading {
+  color: #f0bb03;
+  font-size: 60px;
+  font-family: 'Roboto';
+}
+.paragraph {
+  color: white;
+  font-size: 50px;
+  font-family: 'Roboto';
+}
+.button {
+  background-color: white;
+  height: 100px;
+  width: 200px;
+  border-radius: 4px;
+  color: #1e293b;
+}
